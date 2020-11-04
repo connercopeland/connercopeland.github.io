@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
+A lifelong resident of Western Montana, I grew up in the small town of Florence. I earned my Bachelor's Degree in Computer Science at the University of Montana, where I became a member of the [Wheeler Lab](www.wheelerlab.org). I enjoyed research in Computational Biology and decided to pursue a graduate degree at UMT; in September 2020, I became a PhD student in UMT's CMMB program.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I love computer science, biology, history, and cooking! I've also been known to drag myself up the odd mountain on occasion. 
